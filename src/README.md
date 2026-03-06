@@ -13,6 +13,8 @@ A super simple FastAPI application that allows students to view and sign up for 
 
    ```
    pip install fastapi uvicorn
+   # and for running the test suite:
+   pip install pytest
    ```
 
 2. Run the application:
